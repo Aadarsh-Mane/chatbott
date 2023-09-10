@@ -1,0 +1,21 @@
+{
+  "name": "chatbott",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.6.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
